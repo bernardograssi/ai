@@ -1,0 +1,6 @@
+Ryan Farrell, Bernardo Santos, Allen Westgate
+
+Input the number of free cells as a command line argument.
+Number of free cells may be any whole number greater than or equal to 0. Invalid input will default to 4 free cells. 
+
+Program run time should be between 0 seconds and 2 minutes. 
