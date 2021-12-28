@@ -1,0 +1,1 @@
+{"JPM": {"positive": 30, "negative": 0, "neutral": 3}}

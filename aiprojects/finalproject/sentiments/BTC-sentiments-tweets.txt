@@ -1,0 +1,1 @@
+{"BTC": {"positive": 11694, "negative": 2879, "neutral": 8373}}
