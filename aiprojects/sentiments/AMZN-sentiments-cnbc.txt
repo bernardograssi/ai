@@ -1,1 +1,0 @@
-{"AMZN": {"positive": 259, "negative": 25, "neutral": 12}}
