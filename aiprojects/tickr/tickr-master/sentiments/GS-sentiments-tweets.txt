@@ -1,1 +1,0 @@
-{"GS": {"positive": 1588, "negative": 755, "neutral": 2886}}

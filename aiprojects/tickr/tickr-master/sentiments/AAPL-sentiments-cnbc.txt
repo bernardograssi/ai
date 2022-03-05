@@ -1,1 +1,0 @@
-{"AAPL": {"positive": 206, "negative": 31, "neutral": 25}}
