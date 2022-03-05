@@ -32,3 +32,6 @@ The dashboard contains two tabs: the stock data tab and the predictions tab. The
 3. The articles/tweets sentiments analysis, containing the number of positive/neutral/negative articles/tweets for a given company/cryptocurrency.
 
 At the bottom, the user can see the recommendation: buy/hold/sell the stock/cryptocurrency based on an evaluation function developed by us, which consists of getting the moving average of the last 7 days' predictions of the LSTM model added to the clustering price prediction and divide that sum by 2. The result, then, is the prediction of the change in the price for the next 24-48 hours.
+
+Please see Slides-Presentation.pdf for further explanation:
+[Slides-Presentation.pdf](https://github.com/bernardograssi/ai/files/8191068/Santos-Farrell-Westgate-Slides.Presentation.pdf)
