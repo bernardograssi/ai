@@ -12,7 +12,8 @@ WARNING II: the web scraping part was built using Selenium webdriver for Microso
 
 When the program runs and completes every single step, it will output a URL (http://127.0.0.1:8050/) so that you can just click on it and you will be able to open the dashboard in your browser.
 
-Please see Slides-Presentation.pdf for further explanation.
+Please see Slides-Presentation.pdf for further explanation:
+[Slides-Presentation.pdf](https://github.com/bernardograssi/ai/files/8191068/Santos-Farrell-Westgate-Slides.Presentation.pdf)
 
 ## Authors: Allen Westgate, Bernardo Santos, and Ryan Farrell.
 ## Thank you for reading the readme. Have a great summer! :)
